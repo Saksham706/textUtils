@@ -2,8 +2,6 @@
 
 TextUtils is a simple and interactive **React-based web application** that allows users to **analyze and manipulate text** quickly and efficiently. With a sleek user interface and essential utilities, this tool is ideal for students, developers, writers, or anyone working with text.
 
-![TextUtils Screenshot](./Screenshot.png)
-
 ## 🚀 Features
 
 - 🔡 Convert text to **Uppercase**
