@@ -16,6 +16,9 @@ TextUtils is a simple and interactive **React-based web application** that allow
 
 - [React](https://reactjs.org/) – Frontend framework
 
+  ## Live Link -
+  - text-utils-omega-three.vercel.app
+
 ## 📦 Installation
 
 Follow these steps to run the project locally:
